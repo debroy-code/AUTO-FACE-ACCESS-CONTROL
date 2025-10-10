@@ -21,7 +21,7 @@ minH = 0.1 * cam.get(4)
 # Define a list of names corresponding to the user IDs
 # IMPORTANT: The order matters. ID 1 corresponds to the first name, ID 2 to the second, etc.
 # 'None' is a placeholder for index 0.
-names = ['None','sharukh khan', 'JIT', 'DEEP', 'VASUNDHARA'] # Add more names as you add more users
+names = ['None','JIT', 'ABHISHEK', 'SNEHA', 'VASUNDHARA'] # Add more names as you add more users
 
 while True:
     ret, img = cam.read()
